@@ -57,7 +57,18 @@ public class ListMovieFragment extends Fragment implements Adapter.ItemMovieClic
         rootView = inflater.inflate(R.layout.fragment_list_movie, container, false);
         setHasOptionsMenu(true);
         adapterConfig();
-        getMovies();
+
+        if(positionVar ==1){
+            getMovies();
+        }
+
+        if(positionVar ==2){
+            getRatedMovies();
+        }
+
+        if(positionVar==3){
+            getFavorites();
+        }
 
         favHeler = new FavoriteHelper(getContext());
 
@@ -70,17 +81,21 @@ public class ListMovieFragment extends Fragment implements Adapter.ItemMovieClic
         super.onCreateOptionsMenu(menu, inflater);
     }
 
+    int positionVar=1;
     //menu click
     @Override
     public boolean onOptionsItemSelected(@NonNull MenuItem item) {
         switch (item.getItemId()) {
             case R.id.popular_movies_item:
+                positionVar=1;
                 getMovies();
                 return true;
             case R.id.top_rated_movies:
+                positionVar=2;
                 getRatedMovies();
                 return true;
             case R.id.favorite_movies:
+                positionVar=3;
                 getFavorites();
                 return true;
             default:
