@@ -1,0 +1,17 @@
+
+]
+java:S3252+"@Use static access with "android.provider.BaseColumns" for "_ID".(ψΫλ®8Μμ΄δέ.
+X
+java:S1117^"6Rename "db" which hides the field declared at line 23.(Φ¶ήόÿÿÿÿ8Ώιόγέ.
+X
+java:S1117?"6Rename "db" which hides the field declared at line 23.(‡‰Λϋÿÿÿÿ8Ώιόγέ.
+]
+java:S3252["@Use static access with "android.provider.BaseColumns" for "_ID".(Ή¥ΠΞ8Μμ΄δέ.
+k
+java:S3551""IMake this method "synchronized" to match the parent class implementation.(—µ±ώύÿÿÿÿ8ΩΆδέ.
+\
+java:S1161"":Add the "@Override" annotation above this method signature(—µ±ώύÿÿÿÿ8ΩΆδέ.
+X
+java:S1117M"6Rename "db" which hides the field declared at line 23.(‡‰Λϋÿÿÿÿ8Ώιόγέ.
+b
+java:S3252S"@Use static access with "android.provider.BaseColumns" for "_ID".(χγώψÿÿÿÿ8Μμ΄δέ.

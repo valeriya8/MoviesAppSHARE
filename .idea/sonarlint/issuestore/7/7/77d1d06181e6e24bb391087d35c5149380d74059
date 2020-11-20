@@ -1,0 +1,32 @@
+
+v
+java:S1104"TMake trailers a static final constant or non-public and provide accessors if needed.(Éğ¼¹úÿÿÿÿ8Ğ´½„İ.
+N
+java:S1128",Remove this unused import 'android.net.Uri'.(òêû‘ıÿÿÿÿ8ê®Œ‡İ.
+S
+java:S2696b"6Make the enclosing method "static" or remove this set.(…â¨ã8üÌ¹„İ.
+P
+java:S1444".Make this "public static trailers" field final(Éğ¼¹úÿÿÿÿ8Ğ´½„İ.
+W
+java:S2209"5Change this instance-reference to a static reference.(¿áµøÿÿÿÿ8ŸŞ‰ƒİ.
+Z
+java:S1128"=Remove this unused import 'com.example.moviesapp.data.Movie'.(÷øıß8ó•ƒİ.
+X	java:S125 "<This block of commented-out lines of code should be removed.(¿ûšÎ8ëŞ‹ƒİ.
+@
+java:S2386"#Make member "trailers" "protected".(óƒô 8Ğ´½„İ.
+B
+java:S3010"%Remove this assignment of "trailers".(óƒô 8üÌ¹„İ.
+J
+java:S1604M"(Make this anonymous inner class a lambda(—æ˜”øÿÿÿÿ8¬Â‚ƒİ.
+W
+java:S3010"5Remove this assignment of "itemTrailerClickListener".(¿áµøÿÿÿÿ8ŸŞ‰ƒİ.
+R
+java:S2209b"5Change this instance-reference to a static reference.(…â¨ã8üÌ¹„İ.
+[
+java:S11556">Use isEmpty() to check whether the collection is empty or not.(ãºÉË8ûŸÅŒÜ.
+O
+java:S1128"3Remove this unused import 'android.content.Intent'.(³ğ‹G8ê®Œ‡İ.
+]	java:S125g"<This block of commented-out lines of code should be removed.(›ıÚâøÿÿÿÿ8Ğí€ƒİ.
+R
+java:S1128
+"5Remove this unused import 'android.widget.VideoView'.(‚‹ˆ£8©ØĞ‹Ü.

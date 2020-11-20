@@ -1,0 +1,8 @@
+
+X	java:S110"<This class has 9 parents which is greater than 5 authorized.(²Ú±8ùóçÛ.
+]
+java:S1128";Remove this unused import 'androidx.fragment.app.Fragment'.(‚Š©“ùÿÿÿÿ8¿øˆéÛ.
+d
+java:S1128"BRemove this unused import 'androidx.fragment.app.FragmentManager'.(¯­ë‹ıÿÿÿÿ8¿øˆéÛ.
+h
+java:S1128"FRemove this unused import 'androidx.fragment.app.FragmentTransaction'.(¦İÚ¿şÿÿÿÿ8¿øˆéÛ.

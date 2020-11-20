@@ -1,0 +1,7 @@
+
+L
+java:S10686"*Remove this unused "review" private field.(«óœ½ùÿÿÿÿ8›¯µŒÜ.
+`
+java:S1155*">Use isEmpty() to check whether the collection is empty or not.(Ÿ²ÐÜùÿÿÿÿ8ë²–ÊÛ.
+w
+java:S14506"URemove the "review" field and declare it as a local variable in the relevant methods.(«óœ½ùÿÿÿÿ8›¯µŒÜ.

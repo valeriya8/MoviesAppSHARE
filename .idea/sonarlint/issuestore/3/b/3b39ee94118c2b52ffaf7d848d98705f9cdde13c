@@ -1,0 +1,24 @@
+
+t
+java:S1450)"WRemove the "favorite" field and declare it as a local variable in the relevant methods.(ãÚ€Ü8©âÏåİ.
+F
+java:S1125j")Remove the literal "false" boolean value.( ½é8…ªÅ•Ş.
+Ÿ
+java:S1186¤"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(­–÷Õ8ÌÛ èİ.
+¤
+java:S1186İ"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‹°Óøÿÿÿÿ8ÌÛ èİ.
+]	java:S125D"<This block of commented-out lines of code should be removed.(……È—ûÿÿÿÿ8…ªÅ•Ş.
+\
+java:S1161<":Add the "@Override" annotation above this method signature(ËÄ•åûÿÿÿÿ8ÃÂ…İ.
+y
+java:S1450|"WRemove the "rcReview" field and declare it as a local variable in the relevant methods.(ÂââÀúÿÿÿÿ8ÌÛ èİ.
+E
+java:S1604e"(Make this anonymous inner class a lambda(ˆ„®Â8×¯áçİ.
+u
+java:S1450}"XRemove the "rcTrailer" field and declare it as a local variable in the relevant methods.(Ó„ÈÙ8»ãïçİ.
+Y	java:S125—"<This block of commented-out lines of code should be removed.(ÔéúÚ8ÌÛ èİ.
+Ÿ
+java:S1186È"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¹Œì8…ªÅ•Ş.
+^	java:S125²"<This block of commented-out lines of code should be removed.(¸í‡‚ıÿÿÿÿ8…ªÅ•Ş.
+X	java:S125†"<This block of commented-out lines of code should be removed.(—†®C8…ªÅ•Ş.
+^	java:S125ˆ"<This block of commented-out lines of code should be removed.(éØ»Úûÿÿÿÿ8…ªÅ•Ş.
